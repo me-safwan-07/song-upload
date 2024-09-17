@@ -32,9 +32,9 @@ const App = () => {
 
   return (
     <div className="app-container">
-      <header className="app-header">
+      {/* <header className="app-header">
         <img src={logo} alt="Logo" className="app-logo" />
-      </header>
+      </header> */}
       <div className="song-list">
         <h2>Mad Ad Songs</h2>
         {songs.map((song, index) => (
