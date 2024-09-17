@@ -45,12 +45,6 @@ body {
   text-align: center;
 }
 
-.app-logo {
-  max-width: 80%; /* Smaller logo size for mobile */
-  height: auto;
-  border-radius: 8px; /* Rounded corners for the logo */
-}
-
 /* Song list styles */
 .song-list {
   display: flex;

@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import './App.css';
-import logo from './realme mad ad logo.jpg';
+// import logo from './realme mad ad logo.jpg';
 
 const App = () => {
   const songs = [
